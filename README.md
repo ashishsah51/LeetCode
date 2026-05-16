@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ashishsah51/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ashishsah51/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/ashishsah51/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [1048-longest-string-chain](https://github.com/ashishsah51/LeetCode/tree/master/1048-longest-string-chain) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ashishsah51/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ashishsah51/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashishsah51/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ashishsah51/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/ashishsah51/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [1048-longest-string-chain](https://github.com/ashishsah51/LeetCode/tree/master/1048-longest-string-chain) |
 ## Greedy
 |  |
 | ------- |
@@ -31,11 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/ashishsah51/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [1048-longest-string-chain](https://github.com/ashishsah51/LeetCode/tree/master/1048-longest-string-chain) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ashishsah51/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2784-check-if-array-is-good](https://github.com/ashishsah51/LeetCode/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
 | ------- |
+| [1048-longest-string-chain](https://github.com/ashishsah51/LeetCode/tree/master/1048-longest-string-chain) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ashishsah51/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2784-check-if-array-is-good](https://github.com/ashishsah51/LeetCode/tree/master/2784-check-if-array-is-good) |
 ## Prefix Sum
@@ -51,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/ashishsah51/LeetCode/tree/master/0368-largest-divisible-subset) |
+## Two Pointers
+|  |
+| ------- |
+| [1048-longest-string-chain](https://github.com/ashishsah51/LeetCode/tree/master/1048-longest-string-chain) |
+## String
+|  |
+| ------- |
+| [1048-longest-string-chain](https://github.com/ashishsah51/LeetCode/tree/master/1048-longest-string-chain) |
 <!---LeetCode Topics End-->
