@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/ashishsah51/LeetCode/tree/master/1048-longest-string-chain) |
 | [1340-jump-game-v](https://github.com/ashishsah51/LeetCode/tree/master/1340-jump-game-v) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ashishsah51/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1871-jump-game-vii](https://github.com/ashishsah51/LeetCode/tree/master/1871-jump-game-vii) |
 ## Greedy
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ashishsah51/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/ashishsah51/LeetCode/tree/master/1871-jump-game-vii) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1048-longest-string-chain](https://github.com/ashishsah51/LeetCode/tree/master/1048-longest-string-chain) |
+| [1871-jump-game-vii](https://github.com/ashishsah51/LeetCode/tree/master/1871-jump-game-vii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ashishsah51/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Binary Indexed Tree
 |  |
@@ -117,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ashishsah51/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/ashishsah51/LeetCode/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
