@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/ashishsah51/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ashishsah51/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/ashishsah51/LeetCode/tree/master/3093-longest-common-suffix-queries) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ashishsah51/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/ashishsah51/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ashishsah51/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
