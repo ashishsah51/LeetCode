@@ -23,7 +23,7 @@ class Solution {
             if(queries[i][0] == 1) {
                 int x = queries[i][1];
                 Integer leftPos = obstacles.lower(x);
-                update(1, 0, MAX_RANGE, x, 0);
+                // update(1, 0, MAX_RANGE, x, 0);
                 Integer rightPos = obstacles.higher(x);
 
                 if(rightPos != null) {
