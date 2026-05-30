@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/ashishsah51/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ashishsah51/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/ashishsah51/LeetCode/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/ashishsah51/LeetCode/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ashishsah51/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Simulation
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashishsah51/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ashishsah51/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [2540-minimum-common-value](https://github.com/ashishsah51/LeetCode/tree/master/2540-minimum-common-value) |
+| [3161-block-placement-queries](https://github.com/ashishsah51/LeetCode/tree/master/3161-block-placement-queries) |
 ## Math
 |  |
 | ------- |
@@ -103,10 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ashishsah51/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [3161-block-placement-queries](https://github.com/ashishsah51/LeetCode/tree/master/3161-block-placement-queries) |
 ## Segment Tree
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ashishsah51/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [3161-block-placement-queries](https://github.com/ashishsah51/LeetCode/tree/master/3161-block-placement-queries) |
 ## Depth-First Search
 |  |
 | ------- |
