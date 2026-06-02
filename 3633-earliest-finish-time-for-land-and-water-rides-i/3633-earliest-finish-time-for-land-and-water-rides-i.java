@@ -1,7 +1,7 @@
 class Solution {
     public int earliestFinishTime(int[] landStartTime, int[] landDuration, int[] waterStartTime, int[] waterDuration) {
         int m = landStartTime.length, n = waterStartTime.length;
-        int min = 100000, minB = 1000000;
+        int min = 100000;
         
         for(int i=0; i<m; i++) {
             int endTime = landStartTime[i] + landDuration[i];
