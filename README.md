@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ashishsah51/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2126-destroying-asteroids](https://github.com/ashishsah51/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ashishsah51/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/ashishsah51/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/ashishsah51/LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashishsah51/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/ashishsah51/LeetCode/tree/master/2574-left-and-right-sum-differences) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/ashishsah51/LeetCode/tree/master/1048-longest-string-chain) |
 | [1345-jump-game-iv](https://github.com/ashishsah51/LeetCode/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ashishsah51/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/ashishsah51/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/ashishsah51/LeetCode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ashishsah51/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/ashishsah51/LeetCode/tree/master/2784-check-if-array-is-good) |
@@ -157,4 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1871-jump-game-vii](https://github.com/ashishsah51/LeetCode/tree/master/1871-jump-game-vii) |
+## Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/ashishsah51/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/ashishsah51/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
