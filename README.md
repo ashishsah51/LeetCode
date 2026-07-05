@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/ashishsah51/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ashishsah51/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1048-longest-string-chain](https://github.com/ashishsah51/LeetCode/tree/master/1048-longest-string-chain) |
+| [1301-number-of-paths-with-max-score](https://github.com/ashishsah51/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/ashishsah51/LeetCode/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/ashishsah51/LeetCode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/ashishsah51/LeetCode/tree/master/1345-jump-game-iv) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/ashishsah51/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ashishsah51/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1048-longest-string-chain](https://github.com/ashishsah51/LeetCode/tree/master/1048-longest-string-chain) |
+| [1301-number-of-paths-with-max-score](https://github.com/ashishsah51/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/ashishsah51/LeetCode/tree/master/1340-jump-game-v) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ashishsah51/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1871-jump-game-vii](https://github.com/ashishsah51/LeetCode/tree/master/1871-jump-game-vii) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/ashishsah51/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ashishsah51/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ashishsah51/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
