@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/ashishsah51/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/ashishsah51/LeetCode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/ashishsah51/LeetCode/tree/master/1345-jump-game-iv) |
+| [1406-stone-game-iii](https://github.com/ashishsah51/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ashishsah51/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ashishsah51/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ashishsah51/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/ashishsah51/LeetCode/tree/master/1048-longest-string-chain) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashishsah51/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/ashishsah51/LeetCode/tree/master/1340-jump-game-v) |
+| [1406-stone-game-iii](https://github.com/ashishsah51/LeetCode/tree/master/1406-stone-game-iii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ashishsah51/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1871-jump-game-vii](https://github.com/ashishsah51/LeetCode/tree/master/1871-jump-game-vii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ashishsah51/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ashishsah51/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashishsah51/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ashishsah51/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/ashishsah51/LeetCode/tree/master/1406-stone-game-iii) |
 | [1840-maximum-building-height](https://github.com/ashishsah51/LeetCode/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashishsah51/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ashishsah51/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -395,4 +398,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/ashishsah51/LeetCode/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/ashishsah51/LeetCode/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/ashishsah51/LeetCode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/ashishsah51/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
